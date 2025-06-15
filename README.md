@@ -3,10 +3,10 @@
 To-Do List App Creating using flutter
 
 What I learn:
-  -> TextField
-  ->Buttons
-  ->ListViewBuilder
-  ->TextEditingController
+  - TextField
+  - Buttons
+  - ListViewBuilder
+  - TextEditingController
 
 # OUTPUT
 
